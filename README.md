@@ -23,5 +23,7 @@ Developing the Kinematic Model of a 4-DOF Manipulator SCARA
 Creating a new workspace and a package in Robot Operating System (ROS)
 ### Lab 13
 Creating publisher and subscriber nodes and visualizing their working in terminal using ROS
+
+This lab will be uploaded soon...
 ### Lab 14
 Creating the kinematic model of Turtle Bot in ROS (Robot Operating System) and Gazebo
